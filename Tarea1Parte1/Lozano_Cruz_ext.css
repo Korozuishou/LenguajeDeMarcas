@@ -1,0 +1,27 @@
+
+    a:link {
+        color:#c7721e;
+        background-color: transparent;
+        text-decoration: none;
+        
+    }
+
+    a:visited{
+        color:#1ec73d;
+        background-color: transparent;
+        text-decoration: none;
+        font-family:'Times New Roman', 'Times, serif';
+
+    }
+
+    a:hover{
+        color:aquamarine;
+        background-color: transparent;
+        text-decoration: underline;
+    }
+
+    a:active{
+        color: burlywood;
+        background-color: transparent;
+        text-decoration: underline;
+    }
